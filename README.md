@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-b4a86a28a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityakp1001@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aadikp)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aadityakp1001/)
 
 </div>
 
@@ -27,10 +27,9 @@
 
 I am a Computer Science undergraduate passionate about bridging the gap between cutting-edge Artificial Intelligence and robust software architecture. Whether I'm fine-tuning LLMs, building Retrieval-Augmented Generation (RAG) pipelines, or deploying scalable cloud infrastructure, I love translating massive data into business-driven insights.
 
-<details>
-<summary><b>🛠️ Click to expand my Tech Stack</b></summary>
+---
 
-<br>
+### 🛠️ Tech Stack
 
 **AI & Machine Learning**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -54,8 +53,6 @@ I am a Computer Science undergraduate passionate about bridging the gap between 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-</details>
-
 ---
 
 ### 📂 Featured Projects
@@ -71,13 +68,13 @@ I am a Computer Science undergraduate passionate about bridging the gap between 
 ### 📊 Interactive GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadikp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadikp&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadikp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadikp&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadikp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadikp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Footer image -->
