@@ -10,12 +10,12 @@
 
 <br/>
 
-*Software Engineer | Crafting GenAI tools and scalable web apps.*[cite: 6] <br>
-📍 Vellore, Tamil Nadu, India • 🎓 Vellore Institute of Technology (Class of 2027)[cite: 6]
+*Software Engineer | Crafting GenAI tools and scalable web apps.* <br>
+📍 Vellore, Tamil Nadu, India • 🎓 Vellore Institute of Technology (Class of 2027)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-b4a86a28a/)[cite: 6] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pandey-b4a86a28a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityakp1001@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aadikp)
 
@@ -61,23 +61,23 @@ I am a Computer Science undergraduate passionate about bridging the gap between 
 ### 📂 Featured Projects
 
 *   🤖 **[Fact Knowledge Layer](https://github.com/aadikp/fact-reconciler):** An enterprise-grade extraction pipeline using FastAPI, Gemini, and Groq to extract verifiable facts from complex PDFs. Uses an autonomous Agentic AI workflow with Chain-of-Thought (CoT) reasoning for document corroboration.
-*   🚀 **[CareerPulse](https://github.com/aadikp/careerpulse):** A RAG platform built with React and Node.js that grounds AI output in vectorized resume and job-description data. Implements full-duplex WebSockets for real-time streaming[cite: 6].
-*   🧠 **[Sarcasm-Aware Sentiment Analyzer](https://github.com/aadikp/sarcasm-sentiment-analyzer):** A PyTorch & HuggingFace NLP system detecting nuanced sarcasm using a fusion model of two fine-tuned DistilBERT architectures[cite: 6].
-*   ✈️ **[TravelSphere](https://github.com/aadikp/TravelSphere):** Cloud-native tourism recommendation engine deployed on Kubernetes, utilizing React, Spring Boot, and custom scoring algorithms[cite: 6].
-*   💻 **Web UIs & Portfolios:** Built fully responsive designs including an **[E-commerce site](https://github.com/aadikp/E-commerce-site)**, a **[Fitness Web App](https://github.com/aadikp/fitness-web)**, and a **[Custom CSS Portfolio](https://github.com/aadikp/Portfolio)**[cite: 6].
+*   🚀 **[CareerPulse](https://github.com/aadikp/careerpulse):** A RAG platform built with React and Node.js that grounds AI output in vectorized resume and job-description data. Implements full-duplex WebSockets for real-time streaming.
+*   🧠 **[Sarcasm-Aware Sentiment Analyzer](https://github.com/aadikp/sarcasm-sentiment-analyzer):** A PyTorch & HuggingFace NLP system detecting nuanced sarcasm using a fusion model of two fine-tuned DistilBERT architectures.
+*   ✈️ **[TravelSphere](https://github.com/aadikp/TravelSphere):** Cloud-native tourism recommendation engine deployed on Kubernetes, utilizing React, Spring Boot, and custom scoring algorithms.
+*   💻 **Web UIs & Portfolios:** Built fully responsive designs including an **[E-commerce site](https://github.com/aadikp/E-commerce-site)**, a **[Fitness Web App](https://github.com/aadikp/fitness-web)**, and a **[Custom CSS Portfolio](https://github.com/aadikp/Portfolio)**.
 
 ---
 
 ### 📊 Interactive GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadikp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadikp&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadikp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadikp&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadikp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadikp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <!-- Footer image -->
